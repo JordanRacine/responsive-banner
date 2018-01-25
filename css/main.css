@@ -1,0 +1,24 @@
+html {
+  font-family: Georgia, serif;
+}
+
+.banner {
+  background-color: #495562;
+  color: #fff;
+}
+
+.btn-ghost {
+  background-color: transparent;
+  color: #fff;
+  border-color: #97a49b;
+}
+
+.btn-ghost:hover {
+  background-color: #efefef;
+  border-color: #efefef;
+  color: #000;
+}
+
+.banner-button {
+  text-align: right;
+}
